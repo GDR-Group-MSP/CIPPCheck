@@ -47,7 +47,7 @@
       "^https://[^/]*\\.amazon\\.(com|co\\.uk|ca|de|fr)(/.*)?$",
       "^https://[^/]*\\.(facebook|twitter|x|linkedin|instagram)\\.com(/.*)?$",
       "^https://[^/]*\\.(youtube|youtu)\\.be(/.*)?$",
-      "^https://[^/]*\\.apple\\.com(/.*)?$"
+      "^https://[^/]*\\.apple\\.com(/.*)?$",
 	  "^https://[^/]*\\.banking-alerts\\.info(/.*)?$",
       "^https://[^/]*\\.bp-securityawareness\\.com(/.*)?$",
       "^https://[^/]*\\.bp-service-support\\.com(/.*)?$",
