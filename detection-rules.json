@@ -48,15 +48,15 @@
       "^https://[^/]*\\.(facebook|twitter|x|linkedin|instagram)\\.com(/.*)?$",
       "^https://[^/]*\\.(youtube|youtu)\\.be(/.*)?$",
       "^https://[^/]*\\.apple\\.com(/.*)?$"
-	  "^https://[^/]*\\banking-alerts\\.info(/.*)?$",
-      "^https://[^/]*\\bp-securityawareness\\.com(/.*)?$",
-      "^https://[^/]*\\bp-service-support\\.com(/.*)?$",
-      "^https://[^/]*\\bullphish\\.com(/.*)?$",
-      "^https://[^/]*\\myonlinesecuritysupport\\.com(/.*)?$",
-      "^https://[^/]*\\online-account\\.info(/.*)?$",
-      "^https://[^/]*\\service-noreply\\.info(/.*)?$",
-      "^https://[^/]*\\suspected-fraud\\.info(/.*)?$",
-      "^https://[^/]*\\verifyaccount\\.help(/.*)?$"
+	  "^https://[^/]*\\.banking-alerts\\.info(/.*)?$",
+      "^https://[^/]*\\.bp-securityawareness\\.com(/.*)?$",
+      "^https://[^/]*\\.bp-service-support\\.com(/.*)?$",
+      "^https://[^/]*\\.bullphish\\.com(/.*)?$",
+      "^https://[^/]*\\.myonlinesecuritysupport\\.com(/.*)?$",
+      "^https://[^/]*\\.online-account\\.info(/.*)?$",
+      "^https://[^/]*\\.service-noreply\\.info(/.*)?$",
+      "^https://[^/]*\\.suspected-fraud\\.info(/.*)?$",
+      "^https://[^/]*\\.verifyaccount\\.help(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
