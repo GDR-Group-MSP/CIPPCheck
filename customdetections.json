@@ -1,0 +1,19 @@
+{
+  "exclusion_system": {
+    "domain_patterns": [
+      "^https://[^/]*\\banking-alerts\\.info(/.*)?$",
+      "^https://[^/]*\\bp-securityawareness\\.com(/.*)?$",
+      "^https://[^/]*\\bp-service-support\\.com(/.*)?$",
+      "^https://[^/]*\\bullphish\\.com(/.*)?$",
+      "^https://[^/]*\\myonlinesecuritysupport\\.com(/.*)?$",
+      "^https://[^/]*\\online-account\\.info(/.*)?$",
+      "^https://[^/]*\\service-noreply\\.info(/.*)?$",
+      "^https://[^/]*\\suspected-fraud\\.info(/.*)?$",
+      "^https://[^/]*\\verifyaccount\\.help(/.*)?$"
+    ]
+  },
+    "trusted_login_patterns": [
+	  "^https://[^/]*\\gdrgroup\\.com(/.*)?$"
+        ]
+  }		
+}
